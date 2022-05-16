@@ -1,3 +1,3 @@
 ## hi
 
-[Bambi Civilixation](index.html)
+[Bambi Civilixation](https://unboxingvideoreal.github.io/bambi-civ/)
