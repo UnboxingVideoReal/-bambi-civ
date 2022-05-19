@@ -29,5 +29,7 @@ null,
 {"id":27,"atypeId":11,"description":"Increases damage from Woodwind attacks by 10%.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":202,"name":"Reed Badge","note":"<object element: 12>","params":[0,0,0,0,0,0,0,0],"price":130},
 {"id":28,"atypeId":11,"description":"Increases damage from Brass attacks by 10%.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":248,"name":"Buzz Badge","note":"<object element: 13>","params":[0,0,0,0,0,0,0,0],"price":130},
 {"id":29,"atypeId":11,"description":"Increases damage from Chordophone attacks by 10%.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":199,"name":"Pizzicato Badge","note":"<object element: 14>","params":[0,0,0,0,0,0,0,0],"price":130},
-{"id":30,"atypeId":7,"description":"Immunity to confusion and fascination.","etypeId":6,"traits":[{"code":14,"dataId":8,"value":1},{"code":14,"dataId":9,"value":1},{"code":14,"dataId":23,"value":1}],"iconIndex":80,"name":"Ensemble Badge","note":"","params":[0,0,0,0,0,0,0,0],"price":130}
+{"id":30,"atypeId":7,"description":"Immunity to confusion and fascination.","etypeId":6,"traits":[{"code":14,"dataId":8,"value":1},{"code":14,"dataId":9,"value":1},{"code":14,"dataId":23,"value":1}],"iconIndex":80,"name":"Ensemble Badge","note":"","params":[0,0,0,0,0,0,0,0],"price":130},
+{"id":31,"atypeId":3,"description":"Pixelated bambi hat!!","etypeId":3,"traits":[],"iconIndex":130,"name":"Pixel Hat","note":"","params":[0,0,0,0,0,0,0,1],"price":45},
+{"id":32,"atypeId":3,"description":"Pixelated shirt and pants.","etypeId":4,"traits":[],"iconIndex":135,"name":"Pixelated Clothing","note":"","params":[0,0,0,0,0,0,0,1],"price":45}
 ]
