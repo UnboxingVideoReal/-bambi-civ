@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"TITLE!!","order":1,"parentId":0,"scrollX":655.7142857142857,"scrollY":804.8571428571428},
+{"id":1,"expanded":false,"name":"TITLE!!","order":1,"parentId":0,"scrollX":384,"scrollY":461.5},
 {"id":2,"expanded":true,"name":"Bambi Town","order":3,"parentId":16,"scrollX":1786.909090909091,"scrollY":1006.909090909091},
 {"id":3,"expanded":false,"name":"Bambi's House","order":4,"parentId":2,"scrollX":507,"scrollY":704.25},
 {"id":4,"expanded":false,"name":"Bambi Underground","order":5,"parentId":3,"scrollX":515.3333333333334,"scrollY":626},
@@ -69,7 +69,7 @@ null,
 {"id":67,"expanded":true,"name":"Backyard","order":70,"parentId":60,"scrollX":766,"scrollY":939},
 {"id":68,"expanded":true,"name":"Ibmak Forest","order":87,"parentId":66,"scrollX":912,"scrollY":1107.2727272727273},
 {"id":69,"expanded":true,"name":"Mansion","order":88,"parentId":68,"scrollX":912,"scrollY":786.5},
-{"id":70,"expanded":true,"name":"Mansion","order":89,"parentId":69,"scrollX":330,"scrollY":786.5},
+{"id":70,"expanded":true,"name":"Mansion","order":89,"parentId":69,"scrollX":797,"scrollY":786.5},
 {"id":71,"expanded":true,"name":"Living Room","order":90,"parentId":70,"scrollX":912,"scrollY":1126.5},
 {"id":72,"expanded":false,"name":"Hallway","order":93,"parentId":73,"scrollX":1248,"scrollY":1107.6},
 {"id":73,"expanded":true,"name":"???","order":91,"parentId":70,"scrollX":912,"scrollY":461.5},
@@ -94,7 +94,8 @@ null,
 {"id":92,"expanded":true,"name":"Sussy Island","order":75,"parentId":91,"scrollX":5424,"scrollY":5137.090909090909},
 {"id":93,"expanded":false,"name":"Sussy Meeting hall","order":77,"parentId":92,"scrollX":656.5714285714286,"scrollY":804.8571428571428},
 {"id":94,"expanded":false,"name":"Sussy Shop","order":76,"parentId":92,"scrollX":384.5,"scrollY":461.5},
-{"id":95,"expanded":true,"name":"Bambi Plaza","order":95,"parentId":0,"scrollX":3789,"scrollY":5231.5},
+{"id":95,"expanded":true,"name":"Bambi Plaza","order":95,"parentId":0,"scrollX":3174.5,"scrollY":5668.5},
 {"id":96,"expanded":false,"name":"Bambi Plaza Entrance","order":96,"parentId":95,"scrollX":431.5,"scrollY":461.5},
-{"id":97,"expanded":false,"name":"Plaza Shop First","order":97,"parentId":95,"scrollX":431.5,"scrollY":461.5}
+{"id":97,"expanded":false,"name":"Plaza Shop First","order":97,"parentId":95,"scrollX":431.5,"scrollY":461.5},
+{"id":98,"expanded":false,"name":"Bambi Arcade First","order":98,"parentId":95,"scrollX":1067,"scrollY":1004.5}
 ]
